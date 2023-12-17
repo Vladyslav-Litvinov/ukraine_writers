@@ -1,6 +1,5 @@
 # ukraine_writers
-HW2
-Вивчиди: 
+Вивчили: 
 Коміти та гілки
 Pull request
 git merge та його види
